@@ -1,0 +1,22 @@
+urls = [
+	"https://www.stsforum.org/file/2018/07/2004_Summary.pdf",
+	"https://www.stsforum.org/file/2018/07/2005_Summary.pdf",
+	"https://www.stsforum.org/file/2018/07/2006_Summary.pdf",
+	"https://www.stsforum.org/file/2018/07/2007_Summary.pdf",
+	"https://www.stsforum.org/file/2018/07/2008_Summary.pdf",
+	"https://www.stsforum.org/file/2018/07/2009_Summary.pdf",
+	"https://www.stsforum.org/file/2018/07/2010_Summary.pdf",
+    "https://www.stsforum.org/file/2018/07/2011_Summary.pdf",
+	"https://www.stsforum.org/file/2018/07/2012_Summary.pdf",
+	"https://www.stsforum.org/file/2018/07/2013_Summary-.pdf",
+	"https://www.stsforum.org/file/2018/12/Summary-2014-for-web.pdf",
+	"https://www.stsforum.org/file/2018/12/Summary-2015-for-web.pdf",
+	"https://www.stsforum.org/file/2018/12/Summary-2016-for-web-Link.pdf",
+	"https://www.stsforum.org/file/2018/12/Summary-2017-for-web-Link.pdf",
+    "https://www.stsforum.org/file/2018/12/Summary-2018-for-web-Link.pdf",
+    "https://www.stsforum.org/file/2019/11/Summary-2019-for-web-Link.pdf",
+    "https://www.stsforum.org/file/2020/12/STS-forum-2020-Summary.pdf",
+    "https://www.stsforum.org/file/2021/12/STS-forum-2021-Summary.pdf",
+    "https://www.stsforum.org/file/2022/11/STS-forum-2022-Summary.pdf",
+    "https://www.stsforum.org/file/2023/11/STS2023_Summary.pdf"
+]
