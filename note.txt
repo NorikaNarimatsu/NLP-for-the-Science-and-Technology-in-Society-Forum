@@ -1,3 +1,6 @@
+To do:
+- Fix year 2006, weird space in PDF
+
 urls = [
 	"https://www.stsforum.org/file/2018/07/2004_Summary.pdf",
 	"https://www.stsforum.org/file/2018/07/2005_Summary.pdf",
