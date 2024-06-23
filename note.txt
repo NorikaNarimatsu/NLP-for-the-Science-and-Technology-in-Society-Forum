@@ -23,3 +23,11 @@ urls = [
     "https://www.stsforum.org/file/2022/11/STS-forum-2022-Summary.pdf",
     "https://www.stsforum.org/file/2023/11/STS2023_Summary.pdf"
 ]
+
+
+education
+
+university, governments
+international_cooperation
+
+nuclear_power / nuclear_energy
