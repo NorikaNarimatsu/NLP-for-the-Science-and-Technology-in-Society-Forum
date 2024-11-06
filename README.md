@@ -1,4 +1,5 @@
-# **STS Forum NLP Analysis**
+# **Retrospective Analysis of the Science and Technology in Society Forum Discussions**
+![Co-Occurrence Network Visualization](https://github.com/NorikaNarimatsu/STS_nlp/blob/main/images/gephi_nlp.png)
 
 ## **Overview**
 
