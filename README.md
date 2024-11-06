@@ -1,5 +1,4 @@
 # **Retrospective Analysis of the Science and Technology in Society Forum Discussions**
-![Co-Occurrence Network Visualization](https://github.com/NorikaNarimatsu/STS_nlp/blob/main/images/gephi_nlp.png)
 
 ## **Overview**
 
@@ -31,6 +30,9 @@ This project focuses on analyzing discussions from the STS (Science and Technolo
 - **Scikit-learn**: Clustering and dimensionality reduction.
 - **Gephi**: Co-occurrence network visualization.
 - **BeautifulSoup**: Web scraping.
+
+![Co-Occurrence Network Visualization](https://github.com/NorikaNarimatsu/STS_nlp/blob/main/images/gephi_nlp.png)
+
 
 ## **Acknowledgments**
 
